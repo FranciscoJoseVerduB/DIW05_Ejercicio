@@ -1,0 +1,31 @@
+.author-img {
+    background-image: url(../images/foto-perfil.jpg);
+}
+
+#colorlib-hero .flexslider .slides li:first-child
+{
+	background-image: url(../images/digital.jpg);
+}
+
+#colorlib-hero .flexslider .slides li:last-child
+{
+	background-image: url(../images/habitacion.jpg);
+}
+.progress .color-1 {
+    width:60%;
+}
+.progress .color-2 {
+    width:80%;
+}
+.progress .color-3 {
+    width:80%;
+}
+.progress .color-4 {
+    width:95%;
+}
+.progress .color-5 {
+    width:60%;
+}
+.progress .color-6 {
+    width:90%;
+}
