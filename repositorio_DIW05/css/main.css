@@ -2,15 +2,21 @@
     background-image: url(../images/foto-perfil.jpg);
 }
 
-#colorlib-hero .flexslider .slides li:first-child
+#colorlib-hero .flexslider .slides li:nth-child(1)
 {
 	background-image: url(../images/digital.jpg);
 }
 
-#colorlib-hero .flexslider .slides li:last-child
+#colorlib-hero .flexslider .slides li:nth-child(2)
 {
 	background-image: url(../images/habitacion.jpg);
 }
+#colorlib-hero .flexslider .slides li:nth-child(3)
+{
+	background-image: url(../images/portatil.jpg);
+}
+#colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 .blanco {
+    color: white;  } 
 .progress .color-1 {
     width:60%;
 }
